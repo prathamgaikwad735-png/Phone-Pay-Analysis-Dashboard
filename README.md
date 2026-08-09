@@ -4,10 +4,10 @@
 ## Key Business Questions
 As digital payments continue to grow rapidly in India, platforms like PhonePe process millions of transactions every day across services such as money transfer, recharges, insurance, and loans. With this scale comes a critical business challenge: not every transaction succeeds. Failed and pending transactions directly affect revenue, user trust, and operational efficiency.
 Without a clear view into where, when, and among which users these failures and delays are concentrated, it becomes difficult for the business to prioritize fixes, allocate support resources, or improve service reliability. This dashboard is built to answer:
-•	Which services (Money Transfer, Loans, Insurance, Recharge) have the highest failure or pending value?
-•	Which age segments (Gen Z, Millennials, Gen X, Boomers) drive the most successful vs. failed vs. pending transactions?
-•	Are failures/delays concentrated on specific months or specific days (weekday vs. weekend)?
-•	Who are the highest-value users, and which segments should be prioritized for retention?
+- Which services (Money Transfer, Loans, Insurance, Recharge) have the highest failure or pending value?
+- Which age segments (Gen Z, Millennials, Gen X, Boomers) drive the most successful vs. failed vs. pending transactions?
+- Are failures/delays concentrated on specific months or specific days (weekday vs. weekend)?
+- Who are the highest-value users, and which segments should be prioritized for retention?
 
 
 ## Process / Approach

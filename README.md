@@ -1,23 +1,23 @@
 # PhonePe Transaction Analysis Dashboard
 ## An interactive Power BI dashboard that analyzes PhonePe digital payment transactions across India — covering transaction trends, user segments, service categories, and payment status patterns to support data-driven business decisions.
 
-## Business Problem
+## Key Business Questions
 As digital payments continue to grow rapidly in India, platforms like PhonePe process millions of transactions every day across services such as money transfer, recharges, insurance, and loans. With this scale comes a critical business challenge: not every transaction succeeds. Failed and pending transactions directly affect revenue, user trust, and operational efficiency.
-Without a clear view into where, when, and among which users these failures and delays are concentrated, it becomes difficult for the business to prioritize fixes, allocate support resources, or improve service reliability.
-
-##Key questions this dashboard answers:
+Without a clear view into where, when, and among which users these failures and delays are concentrated, it becomes difficult for the business to prioritize fixes, allocate support resources, or improve service reliability. This dashboard is built to answer:
 •	Which services (Money Transfer, Loans, Insurance, Recharge) have the highest failure or pending value?
 •	Which age segments (Gen Z, Millennials, Gen X, Boomers) drive the most successful vs. failed vs. pending transactions?
 •	Are failures/delays concentrated on specific months or specific days (weekday vs. weekend)?
-•	Who are the highest-value users, and which segments should be prioritized for retention
+•	Who are the highest-value users, and which segments should be prioritized for retention?
+
 
 ## Process / Approach
 1.	Data Understanding — Reviewed the raw transaction dataset (transaction ID, user ID, age segment, service type, amount, status, date, weekday/weekend flag).
 2.	Data Cleaning (Power Query) — Handled missing values, standardized date and status fields, and created calculated columns needed for segmentation (age group, weekday/weekend).
-3.	Data Modeling (DAX) — Built measures for Total Transactions, Total Value, Unique Users, and Success Rate; created relationships to support dynamic              filtering by Month and Payment Status.
+3.	Data Modeling (DAX) — Built measures for Total Transactions, Total Value, Unique Users, and Success Rate; created relationships to support dynamic filtering by Month and Payment Status.
 4.	Dashboard Design (Power BI) — Designed a single-page layout with top-level KPIs, trend charts, segment breakdowns, and a dedicated insights panel, so the story reads top-to-bottom without extra clicks.
 5.	Validation — Cross-checked KPI totals against filtered views (Failed / Pending / Successful) to confirm the numbers reconcile correctly.
-6.	Insight Extraction — Interpreted the visuals to surface the business insights summarized below
+6.	Insight Extraction — Interpreted the visuals to surface the business insights summarized below.
+
 
 
 

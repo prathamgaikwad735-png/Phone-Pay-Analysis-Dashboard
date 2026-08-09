@@ -68,31 +68,31 @@ Filtered on Successful status — 288K transactions worth ₹3.33bn at a 100% su
 6.	Loan-related services contribute the highest pending transaction value, indicating a need for process optimization.
 7.	
 ## Failed Payment Analysis — Detail
--	April has the lowest failed transactions; August and September also show relatively fewer failures.
+- April has the lowest failed transactions; August and September also show relatively fewer failures.
 - Gen X and Millennials contribute the most to failed transactions.
 - Money Transfer has the highest failed transaction value.
 - Failed payments are significantly higher on weekdays.
 ## Pending Payment Analysis — Detail
 - June and July have the highest number of pending payments.
--	Millennials and Gen X contribute the most to pending transactions.
+- Millennials and Gen X contribute the most to pending transactions.
 - Loan Services have the highest pending transaction value.
 - Pending payments are also higher during weekdays.
 ## Successful Payment Analysis — Detail
 - February has comparatively fewer successful transactions; July and August record the highest.
--	Millennials and Gen Z are the largest contributors to successful transactions.
--	Money Transfer is the most frequently used service.
--	Successful transactions are highest during weekdays.
+- Millennials and Gen Z are the largest contributors to successful transactions.
+- Money Transfer is the most frequently used service.
+- Successful transactions are highest during weekdays.
 
 ## Key questions this dashboard answers:
--	Which services (Money Transfer, Loans, Insurance, Recharge) have the highest failure or pending value?
--	Which age segments (Gen Z, Millennials, Gen X, Boomers) drive the most successful vs. failed vs. pending transactions?
--	Are failures/delays concentrated on specific months or specific days (weekday vs. weekend)?
--	Who are the highest-value users, and which segments should be prioritized for retention
+- Which services (Money Transfer, Loans, Insurance, Recharge) have the highest failure or pending value?
+- Which age segments (Gen Z, Millennials, Gen X, Boomers) drive the most successful vs. failed vs. pending transactions?
+- Are failures/delays concentrated on specific months or specific days (weekday vs. weekend)?
+- Who are the highest-value users, and which segments should be prioritized for retention
 
 
 ## Tech Stack
--	Power BI Desktop — data modeling, DAX measures, and dashboard design
--	Power Query — data cleaning and transformation
+- Power BI Desktop — data modeling, DAX measures, and dashboard design
+- Power Query — data cleaning and transformation
 
 ## Conclusion
 This dashboard provides a comprehensive analysis of PhonePe transaction data, helping understand customer behavior, transaction trends, service performance, payment status patterns, and user segment contribution — supporting better business decisions and service optimization.
